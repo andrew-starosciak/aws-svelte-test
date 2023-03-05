@@ -1,0 +1,19 @@
+{
+	"name": "aws-test-deployments",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@fontsource/fira-mono": "^4.5.10",
+		"@neoconfetti/svelte": "^1.0.0",
+		"@sveltejs/adapter-auto": "^2.0.0",
+		"@sveltejs/kit": "^1.5.0",
+		"svelte": "^3.54.0",
+		"sveltekit-adapter-aws": "^4.5.1",
+		"vite": "^4.0.0"
+	},
+	"type": "module"
+}
